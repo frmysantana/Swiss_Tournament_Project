@@ -5,8 +5,7 @@
 The files tournament.sql, and tournament.py create a PostgreSQL database and a Python module, respectively, that keeps track 
 of the players and matches in a Swiss-system tournament. In this system, players are not eliminated, and matches are between
 players with as close a win-record as possible. Matches are 1-on-1 and the code was written assuming that an even-number of
-players are involved. Lastly, tournament_test.py contains unit tests on the code that one may modify for their own 
-tournaments.
+players are involved. Lastly, tournament_test.py (given to me by Udacity) contains unit tests on the code that one may modify for their own tournaments.
 
 ## Needed Software
 
