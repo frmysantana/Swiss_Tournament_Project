@@ -1,5 +1,3 @@
-# Completed as the final project of the Backend Developer path for the Intro to Programming nanodegree on Udacity.com.
-
 # Tournament
 
 The files tournament.sql, and tournament.py create a PostgreSQL database and a Python module, respectively, that keeps track 
